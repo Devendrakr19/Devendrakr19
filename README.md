@@ -91,7 +91,7 @@
   <img src="https://streak-stats.demolab.com/?user=Devendrakr19&theme=vue-dark&hide_border=false" height="165" />
 </p>
 
-## Language
+## Highlight
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Devendrakr19&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> 
