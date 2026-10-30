@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devendra%20Kumar&fontSize=44&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=55&color=0:0f172a,100:1e293b&fontColor=f8fafc" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Devendra%20Kumar&fontSize=44&fontAlignY=35&desc=Fullstack Developer%20Developer%20%7C%20React%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=55&color=0:0f172a,100:1e293b&fontColor=f8fafc" />
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+clean+and+scalable+web+apps;Exploring+AI+and+modern+web+tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=Fullstack+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Building+clean+and+scalable+web+apps;Exploring+AI+and+modern+web+tech" alt="Typing SVG" />
 </p>
 
 <p align="center">
